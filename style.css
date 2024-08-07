@@ -1,0 +1,168 @@
+
+.image1{
+    height: 450px;
+    width: 100%;
+    border-radius: 30px;
+    /* padding: 20px; */
+}
+
+.co{
+    color:rgb(0, 0, 0);
+}
+.part2{
+padding-top: 90px;
+margin-bottom: 20px;
+margin-left: 100px;
+margin-right: 100px;
+border-radius: 50px;
+/* border: solid; */
+}
+.part21:hover{
+    color: black;
+}
+.ho{
+    position: fixed;
+   z-index: 2;
+
+    
+}
+.ud:hover{
+ 
+   background-color: rgba(255, 241, 45, 0.847);
+   border-radius: 10px;
+ 
+}
+.ic{
+   font-size: 30px;
+   
+}
+.person{
+    text-decoration: none;
+
+    color: rgba(0, 0, 0, 0.774);
+}
+.person:hover{
+    color: rgba(255, 251, 0, 0.804);
+}
+.mini{
+    margin-right: 40px;
+}
+
+
+/* modal */
+.icon2{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.q{
+    padding: 50px;
+
+}
+
+
+
+
+
+/* part 3 */
+.part3{
+    padding-top: 40px;
+    margin-left: 110px;
+margin-right: 110px;
+}
+
+/* part 4 */
+.ca{
+    display: flex;
+    /* position:absolute; */
+    width: 30%;
+    height: 90%;
+
+}
+.img1{
+    width: 100%;
+   height: 90%;
+   border-radius: 20px;
+ 
+ 
+}
+.part4{
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 50px;
+
+ 
+
+
+}
+.ca2{
+    padding: 30px;
+ 
+
+}
+.ca2:hover{
+  color: brown; 
+    background-color:rgba(232, 228, 177, 0.418);
+}
+
+.pic3{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+#footer{
+    padding-top: 140px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+   }
+   .base{
+    text-align: center;
+    padding-bottom: 60px;
+ 
+   }
+   .parentfooter{
+       display: flex;
+       justify-content: space-evenly;
+   }
+ 
+   .childfooter i{
+       font-size: 30px;
+       padding: 5px;
+   }
+   .childfooter h2{
+       color: orange;
+   }
+   .childfooter h5{
+       font-weight: 300;
+       font-size: 20px;
+   }
+   .childfooter h4{
+       /* margin-left:20px; */
+   }
+   .footer2{
+       text-align:center;
+       margin-top: 170px;
+       /* margin-right: 490px; */
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive */
+@media(max-width:1000px){
+    .mini{
+     display: none;
+    
+    }
+}
